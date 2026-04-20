@@ -1,4 +1,4 @@
-# multi-phase-memory-architecture-
+# multi-phase-memory-architecture
 A practical architecture for persistent, adaptive cognition in local AI assistants
 # Multi-Phase Memory Architecture
 
